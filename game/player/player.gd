@@ -1,7 +1,7 @@
 class_name Player
 extends KinematicBody2D
 
-signal on_bubble_shoot_pressed
+signal on_shoot_pressed
 
 export var speed = 90
 export var friction = 0.2
